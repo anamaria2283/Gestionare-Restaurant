@@ -1,0 +1,5 @@
+CartofiPrajiti 3 cartofi ulei sare 10
+Pizza 3 branza sosRosii faina 20
+Clatite 3 faina lapte oua 15
+PastePui 3 carnePui paste sosAlb 25
+Freshportocale 1 portocale 10

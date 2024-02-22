@@ -1,0 +1,12 @@
+cartofi 10 kg
+ulei 10 l
+sare 5 kg
+branza 10 kg
+sosRosii 5 l
+faina 10 kg
+lapte 10 l
+oua 100 buc
+carnePui 10 kg
+paste 10 kg
+sosAlb 10 l
+portocale 10 kg

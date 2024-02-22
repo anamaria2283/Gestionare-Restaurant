@@ -1,0 +1,12 @@
+--------------------------- Raport ---------------------------
+Materii prime cu stoc mai mare de 5
+cartofi - 10 kg
+ulei - 10 l
+branza - 10 kg
+faina - 10 kg
+lapte - 10 l
+oua - 100 buc
+carnePui - 10 kg
+paste - 10 kg
+sosAlb - 10 l
+portocale - 10 kg

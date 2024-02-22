@@ -1,0 +1,9 @@
+--------------------------- Raport ---------------------------
+Materii prime cu unitatea de masura: kg
+cartofi - kg
+sare - kg
+branza - kg
+faina - kg
+carnePui - kg
+paste - kg
+portocale - kg

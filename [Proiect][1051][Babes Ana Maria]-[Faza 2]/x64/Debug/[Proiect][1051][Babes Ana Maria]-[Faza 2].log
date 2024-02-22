@@ -1,0 +1,5 @@
+﻿  [Proiect][1051][Babes Ana Maria]-[Faza 2].cpp
+C:\Users\Ana\source\repos\[Proiect][1051][Babes Ana Maria]-[Faza 2]\[Proiect][1051][Babes Ana Maria]-[Faza 2].cpp(142,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ana\source\repos\[Proiect][1051][Babes Ana Maria]-[Faza 2]\[Proiect][1051][Babes Ana Maria]-[Faza 2].cpp(148,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ana\source\repos\[Proiect][1051][Babes Ana Maria]-[Faza 2]\[Proiect][1051][Babes Ana Maria]-[Faza 2].cpp(1258,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  [Proiect][1051][Babes Ana Maria]-[Faza 2].vcxproj -> C:\Users\Ana\source\repos\[Proiect][1051][Babes Ana Maria]-[Faza 2]\x64\Debug\[Proiect][1051][Babes Ana Maria]-[Faza 2].exe

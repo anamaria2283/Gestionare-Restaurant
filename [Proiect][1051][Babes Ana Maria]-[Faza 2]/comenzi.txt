@@ -1,0 +1,7 @@
+2 Pizza 2 20 Clatite 2 15 70
+3 PastePui 1 25 Clatite 1 15 Freshportocale 1 10 50
+2 Pizza 4 20 Freshportocale 1 10 90
+2 CartofiPrajiti 3 10 Clatite 2 15 60
+3 Pizza 1 20 PastePui 1 25 Freshportocale 1 10 55
+1 Freshportocale 1 10 10
+1 Clatite 2 15 30
